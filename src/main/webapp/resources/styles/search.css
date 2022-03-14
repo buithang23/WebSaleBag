@@ -1,0 +1,12 @@
+@charset "ISO-8859-4";
+.search-btn{
+	width: 100vw;
+	height: 100px;
+	background-color: none;
+	border: 1px solid white;
+	border-radius: 10px;  
+}
+.search-text input{
+	width: 100%;
+
+}
